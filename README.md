@@ -1,14 +1,9 @@
 # Habilidades
 Nesse projeto, você será capaz de:
 
-- Entender o que são bancos de dados
-- Entender como a linguagem de consulta estruturada (SQL) é usada
-- Compreender como as tabelas se encaixam no conceito de banco de dados
-- Montar um ambiente de desenvolvimento local para praticar SQL
-- Entender como usar o MySQL Workbench
+- Entender o que são bancos de dados, e como a linguagem de consulta estruturada (SQL) é usada;
 - Compreender o que é uma query SQL e quais são seus tipos de comando
-- Gerar valores com `SELECT`
-- Selecionar colunas individualmente com `SELECT`
+- Gerar valores com `SELECT`, selecionar colunas individualmente com `SELECT`
 - Renomear e gerar colunas em uma consulta com `AS`
 - Concatenar colunas e valores com `CONCAT`
 - Remover dados duplicados em uma consulta com `DISTINCT`
@@ -95,4 +90,12 @@ Monte queries para encontrar as informações esperadas pelos desafios:
 
 - [X] - Delete todos os dados da tabela `order_details`.
 
+---
+
+## Instalação e uso
+Clone o repositório
+Entre na pasta do repositório que você acabou de clonar
+Instale as dependências
+  npm install
+  
 ---
