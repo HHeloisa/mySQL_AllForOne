@@ -22,6 +22,16 @@ Nesse projeto, você será capaz de:
 
 ---
 
+# Instalação
+
+- Clone o repositório
+- Entre na pasta do repositório que você acabou de clonar
+- Instale as dependências:
+```bash 
+  npm install
+```
+---
+
 # Requisitos do projeto
 
 Monte queries para encontrar as informações esperadas pelos desafios:
@@ -90,12 +100,4 @@ Monte queries para encontrar as informações esperadas pelos desafios:
 
 - [X] - Delete todos os dados da tabela `order_details`.
 
----
-
-## Instalação e uso
-Clone o repositório
-Entre na pasta do repositório que você acabou de clonar
-Instale as dependências
-  npm install
-  
 ---
